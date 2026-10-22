@@ -87,27 +87,23 @@ Edge-to-Edge & Gesture Navigation    | ✓ (3-Button)      | ✓ (Gesture)      
 Adaptive Screen Layouts              | ✓                 | ✓                 | ✓                 | ✓                | Pass
   
 
-## Screenshots and Visual Evidence 
+## Screenshots and Visual Evidence
 
-### Cross-version Compatibility
-   - Android 10 - Branded fallback: ![Android 10 Light Theme](screenshots/android10_light.png)
-   - Android 16 — Modern UI: ![Android 16 Light Theme](screenshots/android16_light.png)
+| Android 10 (Branded Fallback & 3-Button Nav) | Android 16 (Modern UI & Edge-to-Edge) |
+| :---: | :---: |
+| ![Android 10 Light Theme](screenshots/android10_light.png) | ![Android 16 Light Theme](screenshots/android16_light.png) |
 
-### Localization & Themeing
-   - Arabic RTL Layout: ![Arabic RTL Layout](screenshots/arabic_rtl.png)
-   - Dark Theme: ![Dark Theme](screenshots/dark_theme.png)
+| Arabic RTL Layout | Dark Theme (Cart Screen) |
+| :---: | :---: |
+| ![Arabic RTL Layout](screenshots/arabic_rtl.png) | ![Dark Theme](screenshots/dark_theme.png) |
 
-### Notifications & Order Tracking
-   - Order Tracking: ![Order Tracking](screenshots/order_tracking.png)
-   - Notification Banner: ![Notification Banner](screenshots/notification_banner.png)
+| Order Tracking Flow | Heads-Up Notification Banner |
+| :---: | :---: |
+| ![Order Tracking](screenshots/order_tracking.png) | ![Notification Banner](screenshots/notification_banner.png) |
 
-**Location Permission — Approximate vs Precise**
-
-![Location Permission](screenshots/location_permission.png)
-
-**Checkout Flow**
-
-![Checkout Screen](screenshots/checkout_screen.png)
+| Location Permission (Approximate vs Precise) | Checkout & Geolocation Autofill |
+| :---: | :---: |
+| ![Location Permission](screenshots/location_permission.png) | ![Checkout Screen](screenshots/checkout_screen.png) |
 
 ---
 
