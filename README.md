@@ -74,17 +74,18 @@ The application is structured following a clean, feature-driver architecture:
 ---
 
 ## Cross-Version Android Compatibility Matrix
-Feature                              |Android 10 (API 29)|Android 12 (API 31) | Android 13 (API 33)|Android 16 (API 36)|Status
-_____________________________________|___________________|____________________|___________________|___________________|___________
-Material 3 Dynamic Color             | ✓ (Fallback)      | ✓ (Harmonized)    | ✓ (Harmonized)    | ✓ (Harmonized)   | Pass  
-Light & Dark Theme                   | ✓                 | ✓                 | ✓                 | ✓                | Pass  
-Bilingual Support (En, Ar) & RTL     | ✓                 | ✓                 | ✓                 | ✓                | Pass
-Runtime Notification Permission      | Not Required      | Not Required       | ✓ Requested       | ✓ Requested      | Pass
-Background / Closed Notifications    | ✓                 | ✓                 | ✓                 | ✓                | Pass 
-Current Location (GPS & Mock)        | ✓                 | ✓                 | ✓                 | ✓                | Pass
-Approximate Vs Precise Location      | ✓                 | ✓                 | ✓                 | ✓                | Pass
-Edge-to-Edge & Gesture Navigation    | ✓ (3-Button)      | ✓ (Gesture)       | ✓ (Gesture)       | ✓ (Enforced)     | Pass
-Adaptive Screen Layouts              | ✓                 | ✓                 | ✓                 | ✓                | Pass
+
+| Feature | Android 10 (API 29) | Android 12 (API 31) | Android 13 (API 33) | Android 16 (API 36) | Status |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Material 3 Dynamic Color | ✓ (Fallback) | ✓ (Harmonized) | ✓ (Harmonized) | ✓ (Harmonized) | Pass |
+| Light & Dark Theme | ✓ | ✓ | ✓ | ✓ | Pass |
+| Bilingual Support (En, Ar) & RTL | ✓ | ✓ | ✓ | ✓ | Pass |
+| Runtime Notification Permission | Not Required | Not Required | ✓ Requested | ✓ Requested | Pass |
+| Background / Closed Notifications | ✓ | ✓ | ✓ | ✓ | Pass |
+| Current Location (GPS & Mock) | ✓ | ✓ | ✓ | ✓ | Pass |
+| Approximate vs Precise Location | ✓ | ✓ | ✓ | ✓ | Pass |
+| Edge-to-Edge & Gesture Navigation | ✓ (3-Button) | ✓ (Gesture) | ✓ (Gesture) | ✓ (Enforced) | Pass |
+| Adaptive Screen Layouts | ✓ | ✓ | ✓ | ✓ | Pass |
   
 
 ## Screenshots and Visual Evidence
