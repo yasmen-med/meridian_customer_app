@@ -1,0 +1,42 @@
+[
+    {
+        "id": "p001",
+        "name": "Vitamin C",
+        "nameAr": "فيتامين سي",
+        "description": "Vitamin C supplement for daily wellness",
+        "descriptionAr": "مكمل فيتامين سي الغذائي لتعزيز المناعة والصحة اليومية",
+        "price": 9.99,
+        "category": "Wellness",
+        "imageUrl": "https://huawellness.com/cdn/shop/files/VitaminCwithprops.jpg?v=1710173139&width=1512"
+    },
+    {
+        "id": "p002",
+        "name": "First Aid Kit",
+        "nameAr": "حقيبة إسعافات أولية",
+        "description": "Essential supplies for minor emergencies",
+        "descriptionAr": "مستلزمات طبية أساسية لحالات الطوارئ والإصابات البسيطة",
+        "price": 14.50,
+        "category": "Medicine",
+        "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=500&auto=format&fit=crop"
+    },
+    {
+        "id": "p003",
+        "name": "Baby Lotion",
+        "nameAr": "لوشن للأطفال",
+        "description": "Gentle moisturizing lotion for baby skin",
+        "descriptionAr": "لوشن ترطيب لطيف ومغذي لبشرة الأطفال الحساسة",
+        "price": 7.25,
+        "category": "Baby Care",
+        "imageUrl": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&auto=format&fit=crop"
+    },
+    {
+        "id": "p004",
+        "name": "Body Lotion",
+        "nameAr": "لوشن للجسم",
+        "description": "Daily moisturizing lotion for soft skin",
+        "descriptionAr": "لوشن ترطيب يومي فائق النعومة لبشرة رطبة وصحية",
+        "price": 8.50,
+        "category": "Personal Care",
+        "imageUrl": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=500&auto=format&fit=crop"
+    }
+]
